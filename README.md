@@ -8,6 +8,8 @@
 ３．護石リスト作成.exeを実行  
 ４．護石リスト_YYYYMMDD-HHMMSS.txtファイルが作成されるのでスプレッドシートなど管理しやすい物へコピー  
   
+動画での説明
+https://youtu.be/LGJH2trhjbE
   
 --------
 注意点
